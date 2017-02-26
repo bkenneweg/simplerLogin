@@ -1,3 +1,9 @@
+//= require jquery
+//= require jquery_ujs
+//= require twitter/bootstrap
+
+
+
 jQuery(document).ready(function($) {
 	tab = $('.tabs h3 a');
 
